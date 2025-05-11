@@ -1,0 +1,8 @@
+activeRepoStatus *true
+durableOwnershipDisablefalse
+Flag to identify repos that should be disableddurableOwnershipNextCheckDate
+2024-04-19T13:20:24.995Z
+Date for when to run the next durable ownership checks
+durableOwnershipWarnfalse
+Flag to identify repos that have been warned pre-disable
+global-rulesets-opt-out *true
